@@ -1,4 +1,4 @@
-# Majid AL-Qurashi - About :
+# Majid - About :
 **Majid** | Full Stack Developer
 <br>
 Passionate developer focused on building advanced Discord ecosystems and automation tools. When I'm not coding maintaining PC builds.
@@ -13,4 +13,3 @@ Passionate developer focused on building advanced Discord ecosystems and automat
 * **Discord Development:** Expert in Node.js & Python scripts, account automation (Self-bots), and custom module debugging.
 * **Digital Branding:** Creative lead for visual identities, including **Bazaar**, **Momo Host**, and **Union Card**.
 * **Hardware & Engineering:** Skilled in electronics repair, precision soldering, and high-performance PC maintenance.
-* 
